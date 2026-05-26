@@ -1,0 +1,51 @@
+.quadrado-vermelho{
+    background-color: #ff0000;
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+    margin-bottom: 10px;
+}
+
+.retangulo-verde{
+    background-color: green;
+    padding: 40px 100px;
+    height: 100px;
+    width: 190px;
+    margin-bottom: 10px;
+}
+
+.retangulo-roxo{
+    background-color: purple;
+    padding: 100px 40px;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.retangulo{
+    background-color: gray;
+    padding: 40px 100px;  
+    height: 100px;
+    width: 190px;
+}
+
+.quadrado-interno{
+    background-color: blue;
+    padding: 30px;
+    height: 10px;
+    width: 10px;
+}
+
+button {
+    border: 1px black solid;
+}
+
+.pequeno {
+    padding: 10px;
+}
+.medio {
+    padding: 20px;
+}
+.grande {
+    padding: 30px;
+}
